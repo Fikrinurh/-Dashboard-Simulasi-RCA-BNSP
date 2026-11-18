@@ -1,0 +1,6 @@
+{
+  "name": "K3 Investigator Pro — Dashboard & Simulasi RCA BNSP",
+  "description": "Aplikasi web terpadu investigasi kecelakaan kerja, pemantau kepatuhan pelaporan 2x24 jam Permenaker No. 03/MEN/1998, dan simulasi Root Cause Analysis (5-Whys, Fishbone 4P, Fault Tree) berstandar Ahli K3 BNSP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
